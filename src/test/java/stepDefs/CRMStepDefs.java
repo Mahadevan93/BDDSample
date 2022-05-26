@@ -14,6 +14,7 @@ public class CRMStepDefs {
 	@Before (value = "@RegressionTest", order=2)
 	public void initializeBrowser() {
 		System.out.println("Initialize the Browser");
+		System.out.println("Browser Initialized");
 		
 	}
 	
