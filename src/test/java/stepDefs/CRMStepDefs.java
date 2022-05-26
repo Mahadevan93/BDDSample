@@ -16,6 +16,7 @@ public class CRMStepDefs {
 		System.out.println("Initialize the Browser");
 		System.out.println("Browser Initialized");
 		System.out.println("Updated by other tester from Remote repository");
+		System.out.println("Updated new details from local");
 		
 	}
 	
